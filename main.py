@@ -1,10 +1,5 @@
 #GERADOR DE SENHA#
 
-#maiusculas e minusculas
-#simbolos e espaços
-
-
-
 chave = input("Digite a base da sua senha: ")
 
 senha = ""
